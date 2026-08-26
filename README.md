@@ -102,7 +102,7 @@ $about_me = [
 
 ## Contact Me
 
-[![Email](https://img.shields.io/badge/Email_Me-bryanantier%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanantier7@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-bryanantier7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanantier7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-antier-6637a540b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bryan141816.github.io/Bryan-Portfolio)
 
